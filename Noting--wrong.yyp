@@ -33,9 +33,12 @@
   },
   "name":"Noting--wrong",
   "resources":[
+    {"id":{"name":"Obj_b_left","path":"objects/Obj_b_left/Obj_b_left.yy",},},
+    {"id":{"name":"Obj_b_manager","path":"objects/Obj_b_manager/Obj_b_manager.yy",},},
     {"id":{"name":"Obj_pers_base","path":"objects/Obj_pers_base/Obj_pers_base.yy",},},
     {"id":{"name":"room_lvl1","path":"rooms/room_lvl1/room_lvl1.yy",},},
     {"id":{"name":"room_menu","path":"rooms/room_menu/room_menu.yy",},},
+    {"id":{"name":"Spr_b_left","path":"sprites/Spr_b_left/Spr_b_left.yy",},},
     {"id":{"name":"Spr_hands_1","path":"sprites/Spr_hands_1/Spr_hands_1.yy",},},
     {"id":{"name":"Spr_pers_base","path":"sprites/Spr_pers_base/Spr_pers_base.yy",},},
     {"id":{"name":"Spr_wall_location","path":"sprites/Spr_wall_location/Spr_wall_location.yy",},},
