@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_hands",
+  "%Name":"Obj_hand_left",
   "eventList":[],
   "managed":true,
-  "name":"obj_hands",
+  "name":"Obj_hand_left",
   "overriddenProperties":[],
   "parent":{
     "name":"Объекты",

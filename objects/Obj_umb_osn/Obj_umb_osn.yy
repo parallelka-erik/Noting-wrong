@@ -1,15 +1,18 @@
 {
   "$GMObject":"",
-  "%Name":"obj_hands",
+  "%Name":"Obj_umb_osn",
   "eventList":[],
   "managed":true,
-  "name":"obj_hands",
+  "name":"Obj_umb_osn",
   "overriddenProperties":[],
   "parent":{
     "name":"Объекты",
     "path":"folders/Объекты.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"Obj_umb_handle",
+    "path":"objects/Obj_umb_handle/Obj_umb_handle.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -28,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Spr_hand_left",
-    "path":"sprites/Spr_hand_left/Spr_hand_left.yy",
+    "name":"Spr_um_osn",
+    "path":"sprites/Spr_um_osn/Spr_um_osn.yy",
   },
   "spriteMaskId":null,
   "visible":true,

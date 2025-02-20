@@ -1,9 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"obj_hands",
-  "eventList":[],
+  "%Name":"Obj_umb_handle",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"obj_hands",
+  "name":"Obj_umb_handle",
   "overriddenProperties":[],
   "parent":{
     "name":"Объекты",
@@ -28,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Spr_hand_left",
-    "path":"sprites/Spr_hand_left/Spr_hand_left.yy",
+    "name":"Spr_umb_handle",
+    "path":"sprites/Spr_umb_handle/Spr_umb_handle.yy",
   },
   "spriteMaskId":null,
   "visible":true,

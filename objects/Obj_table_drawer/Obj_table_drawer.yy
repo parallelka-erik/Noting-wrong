@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_hands",
+  "%Name":"Obj_table_drawer",
   "eventList":[],
   "managed":true,
-  "name":"obj_hands",
+  "name":"Obj_table_drawer",
   "overriddenProperties":[],
   "parent":{
     "name":"Объекты",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Spr_hand_left",
-    "path":"sprites/Spr_hand_left/Spr_hand_left.yy",
+    "name":"Spr_table_drawer",
+    "path":"sprites/Spr_table_drawer/Spr_table_drawer.yy",
   },
   "spriteMaskId":null,
   "visible":true,
