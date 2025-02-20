@@ -1,12 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_umb_osn",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"Obj_work_first",
+  "eventList":[],
   "managed":true,
-  "name":"Obj_umb_osn",
+  "name":"Obj_work_first",
   "overriddenProperties":[],
   "parent":{
     "name":"Объекты",
@@ -31,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Spr_um_osn",
-    "path":"sprites/Spr_um_osn/Spr_um_osn.yy",
+    "name":"Spr_work_first",
+    "path":"sprites/Spr_work_first/Spr_work_first.yy",
   },
   "spriteMaskId":null,
   "visible":true,

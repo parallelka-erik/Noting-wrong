@@ -1,12 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_umb_osn",
+  "%Name":"Obj_contur_osn",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Obj_umb_osn",
+  "name":"Obj_contur_osn",
   "overriddenProperties":[],
   "parent":{
     "name":"Объекты",
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Spr_um_osn",
-    "path":"sprites/Spr_um_osn/Spr_um_osn.yy",
+    "name":"Spr_contur_osn",
+    "path":"sprites/Spr_contur_osn/Spr_contur_osn.yy",
   },
   "spriteMaskId":null,
   "visible":true,
