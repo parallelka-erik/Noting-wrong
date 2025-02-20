@@ -1,9 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_work_first",
-  "eventList":[],
+  "%Name":"Obj_but_work_1",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"Obj_work_first",
+  "name":"Obj_but_work_1",
   "overriddenProperties":[],
   "parent":{
     "name":"Объекты",
@@ -28,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Spr_work_first",
-    "path":"sprites/Spr_work_first/Spr_work_first.yy",
+    "name":"Spr_button",
+    "path":"sprites/Spr_button/Spr_button.yy",
   },
   "spriteMaskId":null,
   "visible":true,
